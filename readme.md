@@ -1,3 +1,3 @@
 # Git, First steps
 
-echo hello
+hello everyone!
